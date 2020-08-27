@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "8131dc0367a9924345ab2afa0f948872f7e92414"
                 },
                 "dist": {
@@ -59,7 +59,10 @@
                     }
                 ],
                 "description": "Horde RPC API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -67,7 +70,7 @@
                 "version_normalized": "2.1.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "0d80e402806b283af0677fd4e21cae3c44bf9997"
                 },
                 "dist": {
@@ -119,7 +122,10 @@
                     }
                 ],
                 "description": "Horde RPC API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/v2.1.6"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -127,7 +133,7 @@
                 "version_normalized": "2.1.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "08991b4cb76ecae83238028916945a7a1a3f49bf"
                 },
                 "dist": {
@@ -179,7 +185,10 @@
                     }
                 ],
                 "description": "Horde RPC API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/v2.1.7"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -187,7 +196,7 @@
                 "version_normalized": "2.1.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "c3a4555009a31114f77d13ddf1eeb438e7869f71"
                 },
                 "dist": {
@@ -248,7 +257,10 @@
                     }
                 ],
                 "description": "Horde RPC API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/v2.1.8"
+                }
             }
         ]
     }

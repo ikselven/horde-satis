@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Data.git",
+                    "url": "https://github.com/maintaina-com/Data.git",
                     "reference": "33756c76d4399a3231cd0a785c72f95039e193d3"
                 },
                 "dist": {
@@ -53,7 +53,10 @@
                     }
                 ],
                 "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data"
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/master"
+                }
             },
             {
                 "name": "horde/data",
@@ -61,7 +64,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Data.git",
+                    "url": "https://github.com/maintaina-com/Data.git",
                     "reference": "63ce97518a9a5d0c2c00616eca9530ae40c6dfa7"
                 },
                 "dist": {
@@ -110,7 +113,10 @@
                     }
                 ],
                 "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data"
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/data",
@@ -118,7 +124,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Data.git",
+                    "url": "https://github.com/maintaina-com/Data.git",
                     "reference": "f6ec3e4903f7b12975fe6463606ed970dbbbb44f"
                 },
                 "dist": {
@@ -167,7 +173,10 @@
                     }
                 ],
                 "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data"
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/data",
@@ -175,7 +184,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Data.git",
+                    "url": "https://github.com/maintaina-com/Data.git",
                     "reference": "f6ec3e4903f7b12975fe6463606ed970dbbbb44f"
                 },
                 "dist": {
@@ -224,7 +233,10 @@
                     }
                 ],
                 "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data"
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/data",
@@ -232,7 +244,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Data.git",
+                    "url": "https://github.com/maintaina-com/Data.git",
                     "reference": "0d0fbd36226c576106b5dc4c80d2a3e8e35a2238"
                 },
                 "dist": {
@@ -278,7 +290,10 @@
                     }
                 ],
                 "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data"
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/maintaina-composerfixed"
+                }
             }
         ]
     }
