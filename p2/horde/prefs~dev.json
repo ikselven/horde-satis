@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Prefs.git",
+                    "url": "git@github.com:maintaina-com/Prefs.git",
                     "reference": "e05effc7c37eabbe687e7d6f14a3ef2e66903b47"
                 },
                 "dist": {
@@ -68,10 +68,7 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Prefs/tree/master"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
             },
             {
                 "name": "horde/prefs",
@@ -79,7 +76,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Prefs.git",
+                    "url": "git@github.com:maintaina-com/Prefs.git",
                     "reference": "714f4618d1c9c78a820c3f968faf0a2ea0b0085b"
                 },
                 "dist": {
@@ -140,10 +137,7 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Prefs/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
             },
             {
                 "name": "horde/prefs",
@@ -151,7 +145,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Prefs.git",
+                    "url": "git@github.com:maintaina-com/Prefs.git",
                     "reference": "32b86806c9fb7f1dcb2ebb0c1ac8192075333ab2"
                 },
                 "dist": {
@@ -212,10 +206,7 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Prefs/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
             },
             {
                 "name": "horde/prefs",
@@ -223,7 +214,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Prefs.git",
+                    "url": "git@github.com:maintaina-com/Prefs.git",
                     "reference": "32b86806c9fb7f1dcb2ebb0c1ac8192075333ab2"
                 },
                 "dist": {
@@ -284,10 +275,7 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Prefs/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
             },
             {
                 "name": "horde/prefs",
@@ -295,7 +283,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Prefs.git",
+                    "url": "git@github.com:maintaina-com/Prefs.git",
                     "reference": "fd887b14b3fd8ca5d2fcc90bbf2e3e68c8dbccff"
                 },
                 "dist": {
@@ -356,10 +344,7 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Prefs/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
             }
         ]
     }

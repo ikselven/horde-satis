@@ -7,7 +7,7 @@
                 "version_normalized": "2.2.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "16edc02a9110e6cde2cb2837317ddf6b038e2b3c"
                 },
                 "dist": {
@@ -51,10 +51,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/sessionhandler",
@@ -62,7 +59,7 @@
                 "version_normalized": "2.2.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "79d0b60d52dc89e36cc5e93ea06e975dd2c8a8e4"
                 },
                 "dist": {
@@ -106,10 +103,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/sessionhandler",
@@ -117,7 +111,7 @@
                 "version_normalized": "2.2.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "8f5a92f9af27d02ae8fcb2084866923bef4082c6"
                 },
                 "dist": {
@@ -161,10 +155,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/sessionhandler",
@@ -172,7 +163,7 @@
                 "version_normalized": "2.2.7.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "ba0371c0f994949f14854791b52ae9716c26156c"
                 },
                 "dist": {
@@ -216,10 +207,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.7"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/sessionhandler",
@@ -227,7 +215,7 @@
                 "version_normalized": "2.2.8.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "f4729e33cc78a67e99f363237a01dbfdffc768a3"
                 },
                 "dist": {
@@ -271,10 +259,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.8"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/sessionhandler",
@@ -282,7 +267,7 @@
                 "version_normalized": "2.2.9.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "9dce9e2567ea0dda6d27231be548462ce7437698"
                 },
                 "dist": {
@@ -326,10 +311,7 @@
                     }
                 ],
                 "description": "Horde Session Handler API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v2.2.9"
-                }
+                "homepage": "https://pear.horde.org"
             }
         ]
     }

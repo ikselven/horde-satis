@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "e32b68eb8472d164061bbe9d9358f48a565f881c"
                 },
                 "dist": {
@@ -43,10 +43,7 @@
                     }
                 ],
                 "description": "Horde_SyncMl provides an API for processing SyncML requests",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/v2.0.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/syncml",
@@ -54,7 +51,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "d8af68a840a953cca9899d2069973da6aca9d8fa"
                 },
                 "dist": {
@@ -90,10 +87,7 @@
                     }
                 ],
                 "description": "Horde_SyncMl provides an API for processing SyncML requests",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/syncml",
@@ -101,7 +95,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "3ed7240ce828b065b51c09914a505c9550847cf3"
                 },
                 "dist": {
@@ -137,10 +131,7 @@
                     }
                 ],
                 "description": "Horde_SyncMl provides an API for processing SyncML requests",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/v2.0.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/syncml",
@@ -148,7 +139,7 @@
                 "version_normalized": "2.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "649d90aec6f4ada5362b7ec48653144bb617d061"
                 },
                 "dist": {
@@ -184,10 +175,7 @@
                     }
                 ],
                 "description": "Horde_SyncMl provides an API for processing SyncML requests",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/v2.0.7"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }

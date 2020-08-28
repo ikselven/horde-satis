@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "1796a7a99697ed31fef565af0f9efd9371a13b1a"
                 },
                 "dist": {
@@ -42,10 +42,7 @@
                     }
                 ],
                 "description": "API accessor for gravatar.com",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/v1.0.0"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -53,7 +50,7 @@
                 "version_normalized": "1.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "336356bdaa409d5dd7aacd8e6cb555fc954462b0"
                 },
                 "dist": {
@@ -88,10 +85,7 @@
                     }
                 ],
                 "description": "API accessor for gravatar.com",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/v1.0.0alpha1"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -99,7 +93,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "90d27266c84c65c61062da2db17135a02dfb26bf"
                 },
                 "dist": {
@@ -134,10 +128,7 @@
                     }
                 ],
                 "description": "API accessor for gravatar.com",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/v1.0.1"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }

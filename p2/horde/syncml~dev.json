@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "e0d8a379b93fed664c774e255ad98decdff48b42"
                 },
                 "dist": {
@@ -49,10 +49,7 @@
                     }
                 ],
                 "description": "SyncML server library",
-                "homepage": "https://www.horde.org/libraries/Horde_SyncMl",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/master"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SyncMl"
             },
             {
                 "name": "horde/syncml",
@@ -60,7 +57,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "a164ede50ff011f1135039de63ca9b0ddbf64c24"
                 },
                 "dist": {
@@ -105,10 +102,7 @@
                     }
                 ],
                 "description": "SyncML server library",
-                "homepage": "https://www.horde.org/libraries/Horde_SyncMl",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SyncMl"
             },
             {
                 "name": "horde/syncml",
@@ -116,7 +110,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "4f51436dc581b78313b216b0569f3108f7a0f58f"
                 },
                 "dist": {
@@ -161,10 +155,7 @@
                     }
                 ],
                 "description": "SyncML server library",
-                "homepage": "https://www.horde.org/libraries/Horde_SyncMl",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SyncMl"
             },
             {
                 "name": "horde/syncml",
@@ -172,7 +163,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "4f51436dc581b78313b216b0569f3108f7a0f58f"
                 },
                 "dist": {
@@ -217,10 +208,7 @@
                     }
                 ],
                 "description": "SyncML server library",
-                "homepage": "https://www.horde.org/libraries/Horde_SyncMl",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SyncMl"
             },
             {
                 "name": "horde/syncml",
@@ -228,7 +216,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SyncMl.git",
+                    "url": "git@github.com:maintaina-com/SyncMl.git",
                     "reference": "f6fad61b66aa91bdddbdea091451fd28361a0b6c"
                 },
                 "dist": {
@@ -270,10 +258,7 @@
                     }
                 ],
                 "description": "SyncML server library",
-                "homepage": "https://www.horde.org/libraries/Horde_SyncMl",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SyncMl/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SyncMl"
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Scribd.git",
+                    "url": "git@github.com:maintaina-com/Service_Scribd.git",
                     "reference": "fab928b9c371eae1edb5f79a4f551c31aa8c5d27"
                 },
                 "dist": {
@@ -41,10 +41,7 @@
                     }
                 ],
                 "description": "Scribd client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Scribd/tree/master"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_scribd",
@@ -52,7 +49,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Scribd.git",
+                    "url": "git@github.com:maintaina-com/Service_Scribd.git",
                     "reference": "dca9475a9960a8395c06330e19e30ba6229cef64"
                 },
                 "dist": {
@@ -89,10 +86,7 @@
                     }
                 ],
                 "description": "Horde Scribd client",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Scribd/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/service_scribd",
@@ -100,7 +94,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Scribd.git",
+                    "url": "git@github.com:maintaina-com/Service_Scribd.git",
                     "reference": "8aea3d718de83af832317898268b3cdf9562f58c"
                 },
                 "dist": {
@@ -137,10 +131,7 @@
                     }
                 ],
                 "description": "Scribd client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Scribd/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_scribd",
@@ -148,7 +139,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Scribd.git",
+                    "url": "git@github.com:maintaina-com/Service_Scribd.git",
                     "reference": "8aea3d718de83af832317898268b3cdf9562f58c"
                 },
                 "dist": {
@@ -185,10 +176,7 @@
                     }
                 ],
                 "description": "Scribd client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Scribd/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_scribd",
@@ -196,7 +184,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Scribd.git",
+                    "url": "git@github.com:maintaina-com/Service_Scribd.git",
                     "reference": "fdb27c47be32ed0898000dba7e160bb6714edbc2"
                 },
                 "dist": {
@@ -230,10 +218,7 @@
                     }
                 ],
                 "description": "Scribd client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Scribd/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org"
             }
         ]
     }

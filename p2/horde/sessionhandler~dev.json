@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "b5cf88249f54a975d5f9e51ca6b7d3806f5609d9"
                 },
                 "dist": {
@@ -57,10 +57,7 @@
                     }
                 ],
                 "description": "Session handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/master"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler"
             },
             {
                 "name": "horde/sessionhandler",
@@ -68,7 +65,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "0efe9c686b5bb5a7065b67166c69ba5e1660fc55"
                 },
                 "dist": {
@@ -121,10 +118,7 @@
                     }
                 ],
                 "description": "Session handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler"
             },
             {
                 "name": "horde/sessionhandler",
@@ -132,7 +126,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "4d923997068036cde3c0fb9ec02edaae807ce73c"
                 },
                 "dist": {
@@ -185,10 +179,7 @@
                     }
                 ],
                 "description": "Session handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler"
             },
             {
                 "name": "horde/sessionhandler",
@@ -196,7 +187,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "4d923997068036cde3c0fb9ec02edaae807ce73c"
                 },
                 "dist": {
@@ -249,10 +240,7 @@
                     }
                 ],
                 "description": "Session handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler"
             },
             {
                 "name": "horde/sessionhandler",
@@ -260,7 +248,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "url": "git@github.com:maintaina-com/SessionHandler.git",
                     "reference": "ed73215e07cdb30ee877eb7064416dff15f0aa62"
                 },
                 "dist": {
@@ -310,10 +298,7 @@
                     }
                 ],
                 "description": "Session handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SessionHandler/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler"
             }
         ]
     }

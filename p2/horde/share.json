@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.10.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "7fcdc8e8de119cd82c4a22a7eabb36fe3b84f0f3"
                 },
                 "dist": {
@@ -54,10 +54,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.10"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -65,7 +62,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "e9a4f995c4ea41435d1291cbe22c822a2e7e8be3"
                 },
                 "dist": {
@@ -112,10 +109,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -123,7 +117,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "d7bfc008665513f4fbd0c0b3a9cf7aee00280b76"
                 },
                 "dist": {
@@ -170,10 +164,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -181,7 +172,7 @@
                 "version_normalized": "2.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "0346083a5fe0a6529abd643603d54104f25f4648"
                 },
                 "dist": {
@@ -228,10 +219,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.7"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -239,7 +227,7 @@
                 "version_normalized": "2.0.8.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "d515c4649740181a7b027fb9964fb5fccc4223b3"
                 },
                 "dist": {
@@ -286,10 +274,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.8"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -297,7 +282,7 @@
                 "version_normalized": "2.0.9.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "366e81ee27388ed8f44f8778a63d1a0a285c46a2"
                 },
                 "dist": {
@@ -344,10 +329,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.0.9"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -355,7 +337,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "ccd6f2cbb377943a234075d658bdec6e9707b70b"
                 },
                 "dist": {
@@ -402,10 +384,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.1.0"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -413,7 +392,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "93a9e42996c08a2b667916343c5f13cb9d440d97"
                 },
                 "dist": {
@@ -460,10 +439,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.1.1"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -471,7 +447,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "afbcb387075f0f972ecffc199332c0690f2a4f1f"
                 },
                 "dist": {
@@ -518,10 +494,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.1.2"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/share",
@@ -529,7 +502,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Share.git",
+                    "url": "git@github.com:maintaina-com/Share.git",
                     "reference": "7cc9f619804265d54cfa7c094f7bb49ebaad35e9"
                 },
                 "dist": {
@@ -585,10 +558,7 @@
                     }
                 ],
                 "description": "Horde Shared Permissions System",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/v2.2.0"
-                }
+                "homepage": "https://pear.horde.org"
             }
         ]
     }

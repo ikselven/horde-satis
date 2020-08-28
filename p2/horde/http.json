@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "2585fc3e43bd910408d07d7dcd15aaed1906d652"
                 },
                 "dist": {
@@ -44,10 +44,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -55,7 +52,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "4c9b397200193d3e95db09918e9ad197f5c9759d"
                 },
                 "dist": {
@@ -92,10 +89,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.2"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -103,7 +97,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "0791d20a1361dd1f7e76203cb621141c03fd008e"
                 },
                 "dist": {
@@ -140,10 +134,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.3"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -151,7 +142,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "a208b007c937c2c04caabbcb9d94c84d19bfae03"
                 },
                 "dist": {
@@ -188,10 +179,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -199,7 +187,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "554d54d3f7b2ffd5dbd10f1b509f02d56ae91068"
                 },
                 "dist": {
@@ -236,10 +224,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -247,7 +232,7 @@
                 "version_normalized": "2.1.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "f7197ca54899b15a64b4a9cda4df042f8f5ccc04"
                 },
                 "dist": {
@@ -284,10 +269,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/http",
@@ -295,7 +277,7 @@
                 "version_normalized": "2.1.7.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
+                    "url": "git@github.com:maintaina-com/Http.git",
                     "reference": "8d21e8edf0321b3d5f5c54a0728d1986e222ab19"
                 },
                 "dist": {
@@ -332,10 +314,7 @@
                     }
                 ],
                 "description": "Horde HTTP libraries",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/v2.1.7"
-                }
+                "homepage": "https://pear.horde.org"
             }
         ]
     }

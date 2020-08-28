@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Serialize.git",
+                    "url": "git@github.com:maintaina-com/Serialize.git",
                     "reference": "43ec30a975f71fb9a294938f4106bd9113143d00"
                 },
                 "dist": {
@@ -54,10 +54,7 @@
                     }
                 ],
                 "description": "Data Encapulation API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Serialize/tree/v2.0.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/serialize",
@@ -65,7 +62,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Serialize.git",
+                    "url": "git@github.com:maintaina-com/Serialize.git",
                     "reference": "f6658cdea3a6fc04fd63f7c4c0f3a27181931c5b"
                 },
                 "dist": {
@@ -112,10 +109,7 @@
                     }
                 ],
                 "description": "Data Encapulation API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Serialize/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "caac76cc37bbef0fb0de948cc5aeb3e13a231033"
                 },
                 "dist": {
@@ -48,10 +48,7 @@
                     }
                 ],
                 "description": "Gravatar client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/master"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -59,7 +56,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "9f9948292d574cf962ceca07aa8ba526191723b2"
                 },
                 "dist": {
@@ -103,10 +100,7 @@
                     }
                 ],
                 "description": "Gravatar client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -114,7 +108,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "1147c590263e85a89901748350b14247f1648fe9"
                 },
                 "dist": {
@@ -158,10 +152,7 @@
                     }
                 ],
                 "description": "Gravatar client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -169,7 +160,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "1147c590263e85a89901748350b14247f1648fe9"
                 },
                 "dist": {
@@ -213,10 +204,7 @@
                     }
                 ],
                 "description": "Gravatar client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org"
             },
             {
                 "name": "horde/service_gravatar",
@@ -224,7 +212,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Service_Gravatar.git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
                     "reference": "7843c59c1016b3a41201b8aa9463317ad1e12448"
                 },
                 "dist": {
@@ -265,10 +253,7 @@
                     }
                 ],
                 "description": "Gravatar client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Service_Gravatar/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org"
             }
         ]
     }

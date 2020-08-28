@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/LoginTasks.git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
                     "reference": "777386058aabd19aff49aad6cb9bf4a5718f1f6c"
                 },
                 "dist": {
@@ -37,10 +37,7 @@
                     }
                 ],
                 "description": "Horde Login Tasks System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/LoginTasks/tree/v2.0.3"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/logintasks",
@@ -48,7 +45,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/LoginTasks.git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
                     "reference": "fd2124cec08e8febcdf012384a6b26a7c74aa0b8"
                 },
                 "dist": {
@@ -78,10 +75,7 @@
                     }
                 ],
                 "description": "Horde Login Tasks System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/LoginTasks/tree/v2.0.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/logintasks",
@@ -89,7 +83,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/LoginTasks.git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
                     "reference": "1fd309c0cbc0af504921af0a075ce2d2cf4e56fb"
                 },
                 "dist": {
@@ -119,10 +113,7 @@
                     }
                 ],
                 "description": "Horde Login Tasks System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/LoginTasks/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/logintasks",
@@ -130,7 +121,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/LoginTasks.git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
                     "reference": "f44153fec90e2dd585a0daffcbc1028b772ef854"
                 },
                 "dist": {
@@ -160,10 +151,7 @@
                     }
                 ],
                 "description": "Horde Login Tasks System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/LoginTasks/tree/v2.0.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/logintasks",
@@ -171,7 +159,7 @@
                 "version_normalized": "2.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/LoginTasks.git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
                     "reference": "81bd8aa65f72dc061c884473fe2573ae22fe6984"
                 },
                 "dist": {
@@ -201,10 +189,7 @@
                     }
                 ],
                 "description": "Horde Login Tasks System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/LoginTasks/tree/v2.0.7"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }
