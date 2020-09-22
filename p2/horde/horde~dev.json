@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "d9525c9f1c1a0dfb8c6c756361e324be5d9be886"
+                    "reference": "ea603941189776677d839bba6243c6e356289055"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/d9525c9f1c1a0dfb8c6c756361e324be5d9be886",
-                    "reference": "d9525c9f1c1a0dfb8c6c756361e324be5d9be886",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/ea603941189776677d839bba6243c6e356289055",
+                    "reference": "ea603941189776677d839bba6243c6e356289055",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/horde-remove-user-data",
                     "bin/horde-active-sessions",
@@ -568,12 +568,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "b31e1594320697ab85ec818b73741e230c27b06e"
+                    "reference": "41f4be25f4b501849d771514039b7c059844a573"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/b31e1594320697ab85ec818b73741e230c27b06e",
-                    "reference": "b31e1594320697ab85ec818b73741e230c27b06e",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/41f4be25f4b501849d771514039b7c059844a573",
+                    "reference": "41f4be25f4b501849d771514039b7c059844a573",
                     "shasum": ""
                 },
                 "require": {
@@ -678,12 +678,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "0659c3eada6be1f0df76cff3d85498c2449c6f4f"
+                    "reference": "1be5339497d88af55aaaa6262ef22277d8129e24"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/0659c3eada6be1f0df76cff3d85498c2449c6f4f",
-                    "reference": "0659c3eada6be1f0df76cff3d85498c2449c6f4f",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/1be5339497d88af55aaaa6262ef22277d8129e24",
+                    "reference": "1be5339497d88af55aaaa6262ef22277d8129e24",
                     "shasum": ""
                 },
                 "require": {
@@ -740,7 +740,7 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/horde-remove-user-data",
                     "bin/horde-active-sessions",
